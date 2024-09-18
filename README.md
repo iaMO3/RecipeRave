@@ -1,5 +1,7 @@
 # Recipe Rave - "Rave about Flavor, Crave for More!"
 
+![eating-gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5vaHVrMXFvYTQ0MnEyNjF0ejRwaXNoOHhzdXJnYWFlNmRqZGF5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSQKNSmg07dHq/200.webp)
+
 ## Introduction
 Recipe Rave is a  web application where foodies can come together to explore mouth-watering recipes from around the world. Join us on a culinary adventure and discover the joy of cooking and sharing delicious dishes with others.
 
