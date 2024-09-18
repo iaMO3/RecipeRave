@@ -28,7 +28,7 @@ Recipe Rave is a  web application where foodies can come together to explore mou
 We value your input and welcome contributions to make Recipe Rave even better! Feel free to suggest new features, report bugs, or submit pull requests to enhance the user experience for all food enthusiasts.
 
 ## Socials
-#### Raho Mohamed
+#### Mohamed Raho
 - LinkedIn - [Linked-In](https://www.linkedin.com/in/mohamed-raho)
 - Twitter - [Twitter](http://twitter.com/iamoham3draho)
 - Github - [Github](https://github.com/iaMO3)
