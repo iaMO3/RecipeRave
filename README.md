@@ -6,7 +6,7 @@
 Recipe Rave is a  web application where foodies can come together to explore mouth-watering recipes from around the world. Join us on a culinary adventure and discover the joy of cooking and sharing delicious dishes with others.
 
 - **Deployed Site:** [Recipe Rave](https://iamo3.github.io/RecipeRave/)
-- **Final Project Blog Article:** [Check out our blog]([https://reciperave.com/blog](https://www.linkedin.com/posts/mahlet-b-472223279_this-project-helps-food-lovers-to-discover-activity-7242059196043563009-Yy5N?utm_source=share&utm_medium=member_desktop)
+- **Final Project Blog Article:** [Check out our blog]([https://reciperave.com/blog](https://www.linkedin.com/posts/mahlet-b-472223279_this-project-helps-food-lovers-to-discover-activity-7242059196043563009-Yy5N?utm_source=share&utm_medium=member_desktop) (https://www.linkedin.com/posts/mohamed-raho_github-iamo3reciperave-rave-about-flavor-activity-7242244242931089409-8Zo1?utm_source=share&utm_medium=member_desktop)
 - **Author(s) LinkedIn:** [Linked-In](https://www.linkedin.com/in/mohamed-raho), [Linked-In](https://www.linkedin.com/in/mahlet-b-472223279)
 
 ## Installation
