@@ -7,7 +7,7 @@ Recipe Rave is a  web application where foodies can come together to explore mou
 
 - **Deployed Site:** [Recipe Rave](https://iamo3.github.io/RecipeRave/)
 - **Final Project Blog Article:** [Check out mahlet blog](https://www.linkedin.com/posts/mahlet-b-472223279_this-project-helps-food-lovers-to-discover-activity-7242059196043563009-Yy5N?utm_source=share&utm_medium=member_desktop)  [Check out mohamed's blog](https://www.linkedin.com/posts/mohamed-raho_github-iamo3reciperave-rave-about-flavor-activity-7242244242931089409-8Zo1?utm_source=share&utm_medium=member_desktop)
-- **Author(s) LinkedIn:** [Linked-In](https://www.linkedin.com/in/mohamed-raho), [Linked-In](https://www.linkedin.com/in/mahlet-b-472223279)
+- **Author(s) LinkedIn:** [Mohamed Linked-In](https://www.linkedin.com/in/mohamed-raho), [Mahlet Linked-In](https://www.linkedin.com/in/mahlet-b-472223279)
 
 ## Installation
 To run Recipe Rave locally on your machine, simply download or clone the repository and open the `index.html` file in your web browser. That's it!
